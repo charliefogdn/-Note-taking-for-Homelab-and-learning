@@ -29,7 +29,7 @@ After that i had to secure with these commands:
 The final test was then exiting the pi then logging back into it: which then worked!
 
 ### Disabling Password Logins
-To complete the lockdown, I edited the SSH daemon configuration on the Pi `sudo nano /etc/ssh/sshd_config` and updated the password rule:
+To finish with setting up my ssh, passwords and key authorisation as the first mini project and learning, I edited the SSH daemon configuration on the Pi `sudo nano /etc/ssh/sshd_config` and updated the password rule:
 `PasswordAuthentication no`
 
 I then restarted the SSH daemon to load the new config into active memory:
