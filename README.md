@@ -1,4 +1,5 @@
-# cybersecurity-homelab
+# Charlie Fogden — Cyber Security Homelab
+
 My name is Charlie Fogden I am 21 years old and studying cyber security at The Open University.
 
 I will be updating everything that I have done from learning networking to cybersecurity fundamentals, and then implementing to my real world Home lab. 
