@@ -5,9 +5,9 @@ I will be updating everything that I have done from learning networking to cyber
 
 To start with I have a raspberry pi which is where the learning will start, I will be doing all the basics on here to get an idea of how to do Linux, understanding security, and other features that will help with my future.
 
-What I am learning
+## What I am learning
 
-Some of the areas I will be working through include:
+### Some of the areas I will be working through include:
 
 Networking
 Linux
@@ -22,7 +22,7 @@ Hardware and troubleshooting
 
 As I learn new things through university, I will try to put them into practice rather than just learning the theory.
 
-My Homelab
+## My Homelab
 
 I am starting with a Raspberry Pi 5, which will be the first part of my homelab.
 
@@ -33,7 +33,7 @@ As I progress, I will add more equipment and systems to the homelab and use them
 The goal is to gradually build a small environment where I can practise the skills I am learning through my degree.
 
 
-Why I am doing this
+## Why I am doing this
 
 I am studying Cyber Security at The Open University, but I also want to develop practical IT experience alongside my degree.
 
